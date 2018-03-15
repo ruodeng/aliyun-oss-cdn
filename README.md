@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Thanks to
 
-* [时尚宝典](https://shishangbaodian.com) 
+* [时尚宝典](https://shishangbaodian.com) *Funding and running by this site.*
