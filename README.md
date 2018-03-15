@@ -43,12 +43,10 @@ Too less resource working on wordpress intergrate with Chinese cloud provider, w
 
 * **Ruo D.** - *Initial work* - (https://github.com/ruodeng)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Thanks to
 
-* [时尚宝典](https://shishangbaodian.com) *Funding and running by this site.*
+* [时尚宝典](https://shishangbaodian.com) *Funding and running on this site.*
